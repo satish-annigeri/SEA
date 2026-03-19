@@ -45,7 +45,9 @@ Copyright &copy; 2026 Satish Annigeri
 #
 # Read more: https://zensical.org/docs/setup/navigation/
  nav = [
-   { "Home" = "index.md" },
+   { "Home" = [
+        "index.md",
+   ]},
    { "About" = [
         { "Organization & History" = "about/introduction.md" },
         { "Vision & Mission" = "about/vision_mission.md" },
@@ -61,7 +63,7 @@ Copyright &copy; 2026 Satish Annigeri
         { "Past Events" = "events/past.md" },
    ]},
    { "Resources" = [
-        "index.md",
+        "resources/index.md",
         { "Downloads" = "resources/assignment01.md" },
    ]},
 ]
