@@ -6,6 +6,6 @@ publish = "_site"
 QUARTO_VERSION = "latest"
 
 [[redirects]]
-  from = "/index.html"
-  to = "/"
-  status = 301
+from = "/index.html"
+to = "/"
+status = 301
