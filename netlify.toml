@@ -3,7 +3,7 @@ command = "quarto render ."
 publish = "_site"
 
 [build.environment]
-QUARTO_VERSION = "1.10.18"
+QUARTO_VERSION = "latest"
 
 [[redirects]]
   from = "/index.html"
