@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: "SEA India"
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer: "&copy; 2026, Structural Engineers' Association India"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - membership.qmd
+      - events.qmd
+      - resources.qmd
+  sidebar:
+    style: "docked"
+    background: light
+    collapse-level: 2
+    contents:
+      - section: "About"
+        href: about.qmd
+        contents:
+          - about/history.qmd
+          - about/vision.qmd
+      - section: "Membership"
+        href: membership.qmd
+        contents:
+          - membership/categories.qmd
+          - membership/apply.qmd
+      - section: "Events"
+        href: events.qmd
+        contents:
+          - events/upcoming.qmd
+          - events/past.qmd
+      - section: "Resources"
+        href: resources.qmd
+        contents:
+          - resources/learning.qmd
+          - resources/downloads.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

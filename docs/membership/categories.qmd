@@ -1,0 +1,21 @@
+---
+title: "Membership Categories"
+---
+
+SEA India offers the following categories of membership:
+
+1. Individual Life Membership
+2. Student Membership
+3. Institutional Life Membership
+
+| Membership Category | Eligibility Requirements | Membership Fee | Duration |
+| ------------------- | ------------------------ | --------------:| -------- |
+| Individual Life Membership | Postgraduate degree in structural engineering (or allied programs) from a recognized University/Institute | ₹10,000 | Lifetime |
+| Student Membership | Students enrolled in a postgraduate structural engineering (or allied) program in a recognized University/Institute | ₹500 | Duration of enrolment in the postgraduate structural engineering academic program |
+| Institutional Life Membership | Institution employing postgraduate structural engineers | ₹25,000 | Lifetime |
+
+#### Note
+
+1. A recognized University/Institute is an Indian University/Institute that is recognized by [UGC](https://www.ugc.gov.in/), or an Institution of National Importance (such as IIT, NIT, IIIT, etc.) or a foreign University recognized by the [Association of Indian Universities](https://aiu.ac.in/).
+2. Student membership is restricted to the duration the student is enrolled in a postgraduate program in structural engineering.
+3. A postgraduate program allied to structural engineering includes programs such as Industrial Structures, Computer Aided Design of Structures, Earthquake Engineering etc. whose curriculum includes predominantly structural engineering courses.

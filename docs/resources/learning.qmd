@@ -1,0 +1,7 @@
+---
+title: "Learning Resources"
+---
+
+Learning resources provided by SEA India.
+
+1. [Python Learning Support Group](https://plsg.netlify.app)
