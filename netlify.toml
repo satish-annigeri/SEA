@@ -6,9 +6,8 @@
   publish = "docs/_site"
   
   # Command to build the site inside the base directory
-  command = "quarto render"
+  # command = "quarto render"
 
 [[plugins]]
   # Plugin to install and configure Quarto on Netlify's build server
   package = "netlify-plugin-quarto"
-  
