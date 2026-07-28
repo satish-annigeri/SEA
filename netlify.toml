@@ -1,11 +1,14 @@
 [build]
-command = "quarto render ."
-publish = "_site"
+  # Tell Netlify to execute commands inside the docs/ directory
+  base = "docs"
+  
+  # Path to rendered output relative to repo root
+  publish = "docs/_site"
+  
+  # Command to build the site inside the base directory
+  command = "quarto render"
 
-[build.environment]
-QUARTO_VERSION = "latest"
-
-[[redirects]]
-from = "/index.html"
-to = "/"
-status = 301
+[[plugins]]
+  # Plugin to install and configure Quarto on Netlify's build server
+  package = "netlify-plugin-quarto"
+  
