@@ -1,3 +1,7 @@
 # Quarto site
 _site/
 .quarto/
+
+# Node modules
+node_modules/
+
