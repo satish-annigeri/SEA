@@ -11,9 +11,36 @@ title: "Membership"
 2. Student Membership
 3. Institutional Life Membership
 
+See details of the [membership categories](membership/categories.qmd).
+
 ## Applying for Membership
 
-Download the Membership Application forms.
+1. Choose your desired [category of membership](membership/categories.qmd) and download the appropriate application form.
+2. There are two ways to fill the form
+    1. Fill the form electronically, insert your photograph and signature and save it in PDF format using your favourite PDF editing application (suggestion: [BentoPDF](https://www.bentopdf.com/edit-pdf)), **or**
+    2. Print the blank application form, fill it by hand, affix your photograph and put your signature. Scan the filled application form and save it in PDF format.
+4. Pay the required fees in any one of the following ways:
+    1. **UPI:** Scan the QR code using any UPI app and complete the payment. Please note down the UPI transaction ID for future reference.
+    2. **Bank Transfer:** Transfer the required amount to the following bank account and note down the transaction ID for future reference.
+5. Scan the following documents and save them in a single PDF file:
+    1. Your masters degree certificate
+    2. Your Aadhar card
+    3. Proof of payment of membership fee
+ 6. Email the following PDF files prepared as above to sea-indiaSend the application form in PDF format along with the PDF file
 
-## Membership Fee Payment Details
+## Membership Fee Payment
 
+### UPI QR Code
+Scan the following QR code on your UPI app to make payment
+
+![SEA QR Code](/assets/img/sea_upi_qr.png){width=300px}
+
+### Bank transfer using RTGS/NEFT
+
+Use the following bank details to make payments:
+
+* Bank: **State Bank of India**
+* Branch: **Personal Banking Branch, Club Road, Hubballi**
+* Type of Account: **Current Account**
+* A/c Number: **44745115010**
+* IFSC: **SBIN0004211**
