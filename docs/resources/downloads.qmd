@@ -3,3 +3,10 @@ title: "Downloads"
 ---
 
 Downloads available from SEA India.
+
+Application forms in fillable PDF format
+
+1. [Individual Life Membership Application Form](assets/pdf/individual_life_membership_application_form.pdf)
+2. [Student Membership Application Form](assets/pdf/student_membership_application_form.pdf)
+3. [Institutional Life Membership Application Form](assets/pdf/institutional_life_membership_application_form.pdf)
+
