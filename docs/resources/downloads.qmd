@@ -12,4 +12,5 @@ Downloads available from SEA India.
 
 ### Presentation slides from technical events
 
-1. [Python for Structural Engineers](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Satish Annigeri
+1. [Seismic Analysis and Earthquake Resistant Design - Key Updates in IS1893:2025](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Chethan K., UVCE, Bengaluru
+2. [Python for Structural Engineers](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Satish Annigeri
