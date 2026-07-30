@@ -4,9 +4,12 @@ title: "Downloads"
 
 Downloads available from SEA India.
 
-Application forms in fillable PDF format
+### Application forms in fillable PDF format
 
-1. [Individual Life Membership Application Form](assets/pdf/individual_life_membership_application_form.pdf)
+1. [Life Membership Application Form](assets/pdf/individual_life_membership_application_form.pdf)
 2. [Student Membership Application Form](assets/pdf/student_membership_application_form.pdf)
-3. [Institutional Life Membership Application Form](assets/pdf/institutional_life_membership_application_form.pdf)
+3. [Institutional Membership Application Form](assets/pdf/institutional_life_membership_application_form.pdf)
 
+### Presentation slides from technical events
+
+1. [Python for Structural Engineers](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Satish Annigeri
