@@ -8,7 +8,7 @@ title: "Members"
 2. Gogte Institute of Technology, Belagavi
 3. S.D.M. College of Engineering & Technology, Dharwad
 
-Life Members
+### Life Members
 
 | Membership Number | Name                                 |
 |:----------------- |:------------------------------------ |
