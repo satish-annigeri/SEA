@@ -12,11 +12,10 @@ title: "Management Committee"
 6. **Er. B. Mahesh** - Treasurer
 7. **Er. N.S. Nadgir** - Member
 8. **Dr. V.B. Patil** - Member
-9. **Er. Vinay Behere** - Member
-10. **Er. Vishal Laturkar** - Member
-11. **Er. Sushama Hiremath** - Member
-12. **Er. Naveen Bendigeri** - Member
-13. **Dr. Manu Hegde** - Member
-14. **Er. Mahesh V. Patil** - Member
+9. **Er. Naveen Bendigeri** - Member
+10. **Er. Vinay Behere** - Member
+11. **Er. Mahesh V. Patil** - Member
+12. **Er. Sushama Hiremath** - Member
+13. **Er. Vishal Laturkar** - Member
+14. **Dr. Manu Hegde** - Member
 15. **Er. Prashant M. Horakeri** - Member
-
