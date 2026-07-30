@@ -4,9 +4,9 @@ title: "Membership Categories"
 
 SEA India offers the following categories of membership:
 
-1. Individual Life Membership
+1. Life Membership
 2. Student Membership
-3. Institutional Life Membership
+3. Institutional Membership
 
 | Membership Category | Eligibility Requirements | Membership Fee | Duration |
 | ------------------- | ------------------------ | --------------:| -------- |
