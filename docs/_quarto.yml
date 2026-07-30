@@ -26,6 +26,7 @@ website:
         contents:
           - about/history.qmd
           - about/vision.qmd
+          - about/mc.qmd
       - section: "Membership"
         href: membership.qmd
         contents:
