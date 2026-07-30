@@ -11,8 +11,8 @@ SEA India offers the following categories of membership:
 | Membership Category | Eligibility Requirements | Membership Fee | Duration |
 | ------------------- | ------------------------ | --------------:| -------- |
 | Life Membership | Postgraduate degree in structural engineering (or allied programs) from a recognized University/Institute | ₹10,000 | Lifetime |
-| Student Membership | Students enrolled in a postgraduate structural engineering (or allied) program in a recognized University/Institute | ₹500 | Duration of enrolment in the postgraduate structural engineering academic program |
-| Institutional Membership | Institution employing postgraduate structural engineers | ₹25,000 | Lifetime |
+| Student Membership | Students enrolled in a postgraduate structural engineering (or allied) program in a recognized University/Institute | ₹500 | Duration of enrolment in the postgraduate structural engineering (or allied) academic program |
+| Institutional Membership | Organisation/Institution employing postgraduate structural engineers | ₹25,000 | Lifetime |
 
 #### Note
 
