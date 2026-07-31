@@ -15,6 +15,6 @@ Download membership forms, Bye-laws, registration certificate, technical publica
 1. [Seismic Analysis and Earthquake Resistant Design - Key Updates in IS1893:2025](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Chethan K., UVCE, Bengaluru
 2. [Python for Structural Engineers](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Satish Annigeri
 
-### Bureau of Indian Standard Codes
+### Bureau of Indian Standards Codes
 
 You can [register](https://standardsbis.bsbedge.com/BIS_Register), [login](https://standardsbis.bsbedge.com/BIS_Login) and download soft copies of IS codes on [BSB Edge](https://standardsbis.bsbedge.com/)

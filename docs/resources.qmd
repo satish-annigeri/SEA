@@ -2,4 +2,5 @@
 title: "Resources"
 ---
 
-Resources provided by SEA India
+* [Learning resources](resources/learning.qmd)
+* [Downloads](resources/downloads.qmd)
