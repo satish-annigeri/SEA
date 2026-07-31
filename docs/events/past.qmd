@@ -2,6 +2,8 @@
 title: "Past Events"
 ---
 
+Browse our archive of previous events that showcase the Association's commitment to technical excellence, professional development, collaboration, and lifelong learning.
+
 1. **Inaugural Function** on 2025-12-20 at The President Hotel, Hubballi
 2. **Seismic Analysis and Earthquake Resistant Design -- Key updates in IS1893:2025** by **Dr. Chethan**, UVCE, Bengaluru on 2026-01-17 at KLE Technological University, Hubballi
 3. **Python for Structural Engineers** by **Dr. Satish Annigeri** on 2026-02-20 at KLE Technological University, Hubballi. Download the [presentation slides](/assets/pdf/python_for_structural_engineers.pdf).

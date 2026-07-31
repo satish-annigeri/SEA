@@ -2,4 +2,9 @@
 title: "Events"
 ---
 
-Events of SEA India
+SEA-India organises technical seminars, workshops, conferences, webinars, panel discussions, site visits, student activities, research presentations, and Continuing Professional Development (CPD) programmes.
+
+The Association aims to organise at least one technical programme every month, with every fourth programme as a full-day event and one major conference annually.
+
+* [Upcoming events](events/upcoming.qmd)
+* [Past events](events/past.qmd)

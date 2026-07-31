@@ -2,15 +2,19 @@
 title: "Downloads"
 ---
 
-Downloads available from SEA India.
+Download membership forms, Bye-laws, registration certificate, technical publications, newsletters, event brochures, circulars, annual reports, minutes of meetings, presentations, and other official documents.
 
 ### Application forms in fillable PDF format
 
-1. [Life Membership Application Form](assets/pdf/individual_life_membership_application_form.pdf)
-2. [Student Membership Application Form](assets/pdf/student_membership_application_form.pdf)
-3. [Institutional Membership Application Form](assets/pdf/institutional_life_membership_application_form.pdf)
+1. [Life Membership Application Form]()
+2. [Student Membership Application Form]()
+3. [Institutional Membership Application Form]()
 
 ### Presentation slides from technical events
 
 1. [Seismic Analysis and Earthquake Resistant Design - Key Updates in IS1893:2025](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Chethan K., UVCE, Bengaluru
 2. [Python for Structural Engineers](/assets/pdf/python_for_structural_engineers.pdf) by Dr. Satish Annigeri
+
+### Bureau of Indian Standard Codes
+
+You can [register](https://standardsbis.bsbedge.com/BIS_Register), [login](https://standardsbis.bsbedge.com/BIS_Login) and download soft copies of IS codes on [BSB Edge](https://standardsbis.bsbedge.com/)

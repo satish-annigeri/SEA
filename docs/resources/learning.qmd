@@ -2,6 +2,6 @@
 title: "Learning Resources"
 ---
 
-Learning resources provided by SEA India.
+Resources include technical articles, design guides, engineering papers, research publications, Standard Operating Procedures (SoPs), recorded webinars, presentations, design examples, codes, standards, and best-practice documents.
 
 1. [Python Learning Support Group](https://plsg.netlify.app)

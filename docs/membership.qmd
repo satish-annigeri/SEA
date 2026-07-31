@@ -3,7 +3,7 @@ title: "Membership"
 ---
 
 ## Membership Benefits
-
+Membership provides access to a nationwide professional network dedicated to technical excellence, continuing professional development, knowledge sharing, publications, networking opportunities, leadership roles, and collaborative initiatives.
 
 ## Membership Categories
 
@@ -15,7 +15,7 @@ See details of the [membership categories](membership/categories.qmd).
 
 ## Applying for Membership
 
-1. Choose your desired [category of membership](membership/categories.qmd) and download the appropriate application form.
+1. Choose your desired [membership category](membership/categories.qmd) and download the appropriate application form.
 2. There are two ways to fill the form
     1. Fill the form electronically, insert your photograph and signature and save it in PDF format using your favourite PDF editing application (suggestion: [BentoPDF](https://www.bentopdf.com/edit-pdf)), **or**
     2. Print the blank application form, fill it by hand, affix your photograph and put your signature. Scan the filled application form and save it in PDF format.
