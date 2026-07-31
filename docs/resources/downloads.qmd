@@ -6,9 +6,9 @@ Download membership forms, Bye-laws, registration certificate, technical publica
 
 ### Application forms in fillable PDF format
 
-1. [Life Membership Application Form]()
-2. [Student Membership Application Form]()
-3. [Institutional Membership Application Form]()
+1. [Life Membership Application Form](/assets/pdf/Form_LifeMembership_Fillable.pdf){target="_blank"}
+2. Student Membership Application Form
+3. [Institutional Membership Application Form](/assets/pdf/Form_InstitutionalEnrolment_Fillable.pdf){target="_blank"}
 
 ### Presentation slides from technical events
 

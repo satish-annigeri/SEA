@@ -3,7 +3,7 @@ title: "Applying for Membership"
 ---
 
 1. Check the [types of memberships](categories.qmd) and their respective requirements, fees and duration.
-2. Download the corresponding application form in fillable PDF format
+2. [Download](/resources/downloads.qmd#application-forms-in-fillable-pdf-format) the corresponding application form in fillable PDF format
 3. Fill the application form in one of the following ways:
    1. Fill the PDF file using software such as Adobe Acrobat, BentoPDF or your favourite PDF form filling software
    2. Print the application form and affix your signature and a recent photograph
